@@ -3,12 +3,13 @@ lista_alumnos = []
 lista_notas = []
 
 while True:
-    print("1. Agregar nuevo alumno a la lista")
+    print("1. nuevo alumno a la lista")
     print("2. Agregar nota a alumno")
     print("3. Mostrar notas alumnos")
     print("4. Calcular promedio alumnos")
     print("5. Mostrar lista de aprobación")
     print("6. Salir del programa")
+    print ("ya chao")
 
     opcion = input("Ingrese una opción a ejecutar: ")
 
